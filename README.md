@@ -1,4 +1,3 @@
-Here’s the detailed note with normal text formatting and code snippets highlighted in code boxes:
 
 # 🎊 **👾 Advanced Antivirus Tool** - Your Shield Against Malware 👾 🎊
 
